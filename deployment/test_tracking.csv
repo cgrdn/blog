@@ -22,3 +22,12 @@ P5389B-25CA008,,26-02-2026,autotest-nosky,pass,10.8,707.5,,
 P5389A-25CA003,,26-02-2026,autotest-nosky,pass,10.9,711.6,,
 P5389B-25CA004,,26-02-2026,autotest-nosky,pass,10.8,708.6,,"SD card present here as well"
 P5389B-25CA009,,26-02-2026,autotest-nosky,pass,10.8,706.0,,"Crate moldy on inside"
+P5389B-26CA007,,23-07-2026,autotest-nosky,pass,10.8,706.1,,
+P5389B-26CA003,,23-07-2026,autotest-nosky,pass,10.9,714.5,,
+P5389A-26CA001,,23-07-2026,autotest-nosky,pass,10.8,713.9,,"SD card present, 14.8GB free"
+P5389B-26CA004,,23-07-2026,autotest-nosky,pass,10.8,708.2,,
+P5389B-26CA006,,23-07-2026,autotest-nosky,pass,10.7,707.0,,
+P5389B-26CA002,,23-07-2026,autotest-nosky,pass,,,,
+P5389B-26CA005,,23-07-2026,autotest-nosky,pass,10.8,712.1,,
+P5389B-26CA008,,23-07-2026,autotest-nosky,pass,10.9,703.6,,
+P5389B-26CA001,,23-07-2026,autotest-nosky,pass,10.8,701.9,,
